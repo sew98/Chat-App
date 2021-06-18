@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121630456461",
+    "project_id": "chat-app-1c26a",
+    "storage_bucket": "chat-app-1c26a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121630456461:android:09ff85c4c99d6fffbd40c4",
+        "android_client_info": {
+          "package_name": "com.sewmi.chat_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121630456461-ncfahl6p2noflr56e3rp9g9m74sgs6ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvYM3ygNfZamJtO3qVIaoP0bWcNM1PPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121630456461-ncfahl6p2noflr56e3rp9g9m74sgs6ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
